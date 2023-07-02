@@ -1,0 +1,2 @@
+ServerCentrala = 4000
+ServerWorld port = 2000
